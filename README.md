@@ -1,7 +1,7 @@
 # personal-finance-tool
 
-The Personal Finance Management Tool is a Java-based application designed to help individuals 
-effectively manage their personal finances. The tool provides a user-friendly interface for 
+As an incoming university student, The Personal Finance Management Tool is a Java-based application I designed to help 
+individuals like myself effectively manage and track their personal finances. The tool provides a user-friendly interface for 
 users to manually track their expenses, transactions, set budgets as well as compete with 
 other users. The data is stored in a MySQL database.
 
