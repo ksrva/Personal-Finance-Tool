@@ -13,6 +13,10 @@ they make and view progress of other users with the leaderboard feature regardin
 
 (Features such as advanced & custom goal setting are still in progress)
 
+DEPENDENCIES 
+
+MySQL (version 8.1.0) 
+
 CONTACT
 
 For any inquiries or questions, please contact kamakshis230@gmail.com
